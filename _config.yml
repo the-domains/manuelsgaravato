@@ -1,0 +1,28 @@
+name: ManuelSgaravato
+favicon: null
+layout_spectrum: 0.8711489473935217
+typography_spectrum: 0.6668042475357652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5322926447261125
+  lightness: 0.32883343775756657
+  saturation: 0.8955300545785576
+  rhythmicContrast: 0.3714349060319364
+purpose: []
