@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ManuelSgaravato]]></title>
         <description><![CDATA[ManuelSgaravato]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manuelsgaravato/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 19:00:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 19:00:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manuelsgaravato/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[London View]]></title>
+            <description><![CDATA[<article><h1>London View</h1><p>Welcome to my 500px! This is a view of London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7269d8db9ba1c4c28e3a8cffaa9bd4de8c436032.jpg"></article>]]></description>
+            <link>https://500px.com/photo/84459775/london-view-by-manuel-sgaravato?ctx_page=1&amp;from=user&amp;user_id=2777977</link>
+            <guid isPermaLink="false">90146244-5d30-488e-a4a4-8d0342762cf2</guid>
+            <pubDate>Tue, 12 Apr 2016 19:00:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Big Ben]]></title>
             <description><![CDATA[<article><h1>The Big Ben</h1><p>Welcome to my 500px! London. This is a view of the Elizabeth Tower - The Big Ben.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ca4ae3581eafd5232ee62664372001b439d7f4.jpg"></article>]]></description>
